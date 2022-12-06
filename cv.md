@@ -1,14 +1,14 @@
 
 # Shorokhov Vladislav
 ## Contacts
-### Country: Belarusia, Gomel
-### Tel: +375 29 555 43 52
-### GitHub: [shovhhh](https://github.com/shovhhh)
+### Country: _Belarusia, Gomel_
+### Tel: _+375 29 555 43 52_
+### GitHub: _[shovhhh](https://github.com/shovhhh)_
 ## Life and goals
-### Young;Motivated. Self-development in the field IT
+### _Young;Motivated. Self-development in the field IT_
 ## Skills
-### 80% Stage-1
+### _80% Stage-1_
 ## Education
-### Process-Engineer
+### _Process-Engineer_
 ## English
-### A2 and growing
+### _A2 and growing_
