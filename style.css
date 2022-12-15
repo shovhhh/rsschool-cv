@@ -87,6 +87,10 @@ h6 {
    font-weight: 400;
 }
 
+::-webkit-scrollbar {
+   width: 0;
+}
+
 body {
    font-size: 1em;
    font-family: 'Roboto', sans-serif;
@@ -335,3 +339,16 @@ span a.linkGit {
    }
 }
 
+@media (max-width: 440px) {
+   section {
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+   }
+}
+
+@media (max-width: 440px) {
+   .infoSection {
+      width: 80%;
+   }
+}
